@@ -21,13 +21,20 @@ Participei diretamente na construção de design system, integrando sistema com 
     <p align='center'>
       <img alt="Denis-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;&nbsp;
       <img alt="Denis-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Denis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;    
+      <img alt="Denis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;  
+      <img alt="Denis-SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> &nbsp;&nbsp;
+      <img alt="Denis-Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> &nbsp;&nbsp;
+      <img alt="Denis-NUXT" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" /> &nbsp;&nbsp;  
+      <img alt="Denis-JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp;&nbsp;    
+      
   </p>
   </div>
   <div>
     <h2>🌱 Em estudo!</h2>
     <p align='center'>
       <img alt="Denis-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
+      <img alt="Denis-REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;&nbsp;
+      <img alt="Denis-REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> &nbsp;&nbsp;
     </p>
   </div>
 </div>
