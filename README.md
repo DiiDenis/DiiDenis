@@ -1,8 +1,8 @@
 # Denis Izaias Pereira
 
-### Olá Pessoal,
+### Olá,
 
-Me chamo Denis, sou programador front-end e atuo na área fazem 6 anos, tenho experiência sólida no desenvolvimento de interfaces para sistemas e sites.
+Sou programador front-end e atuo na área fazem 6 anos, tenho experiência sólida no desenvolvimento de interfaces para sistemas e sites.
 
 Todos os projetos pelos quais já passei, sempre viso entregar uma boa experiencia de navegação para o usuário final, também uma boa experiencia para meus colegas de equipe, desenvolvendo código com os princípios do "Clean Code", assim colaborando com a compreensão e edições futuras.
 
