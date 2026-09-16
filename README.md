@@ -26,15 +26,18 @@ Participei diretamente na construção de design system, integrando sistema com 
       <img alt="Denis-Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> &nbsp;&nbsp;
       <img alt="Denis-NUXT" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" /> &nbsp;&nbsp;  
       <img alt="Denis-JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp;&nbsp;    
+      <img alt="Denis-REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;&nbsp;
+      <img alt="Denis-REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> &nbsp;&nbsp;
       
   </p>
   </div>
   <div>
-    <h2>🌱 Em estudo!</h2>
+     <h2>🖥️ Backend</h2>
     <p align='center'>
       <img alt="Denis-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Denis-REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;&nbsp;
-      <img alt="Denis-REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> &nbsp;&nbsp;
+      <img alt="Denis-PRISMA" src="https://shields.io" /> &nbsp;&nbsp;
+      <img alt="Denis-POSTGRESQL" src="https://shields.io" /> &nbsp;&nbsp;
+      <img alt="Denis-WEBSOCKET" src="https://shields.io" /> &nbsp;&nbsp;
     </p>
   </div>
 </div>
