@@ -1,58 +1,109 @@
 # Denis Izaias Pereira
 
-### Olá,
+### Senior Software Engineer | Frontend Focus
 
-Sou programador front-end e atuo na área fazem 6 anos, tenho experiência sólida no desenvolvimento de interfaces para sistemas e sites.
+Desenvolvedor de software com mais de **9 anos de experiência** na construção de aplicações web, sistemas corporativos e produtos digitais.
 
-Todos os projetos pelos quais já passei, sempre viso entregar uma boa experiencia de navegação para o usuário final, também uma boa experiencia para meus colegas de equipe, desenvolvendo código com os princípios do "Clean Code", assim colaborando com a compreensão e edições futuras.
+Minha principal especialidade é **Frontend**, com forte atuação nos ecossistemas **React / Next.js** e **Vue / Nuxt**, utilizando JavaScript e TypeScript.
 
-Participei diretamente na construção de design system, integrando sistema com storybook, desenvolvimento de “landing pages”, criação do zero de sistema multinacional no ramo de logística também como desenvolvimento de “features” para produto robusto na área de contabilidade. 
+Também atuo no desenvolvimento de soluções full stack com **Node.js, Express, Prisma e PostgreSQL**, principalmente em produtos próprios, integrações e funcionalidades que exigem visão ponta a ponta.
 
+Ao longo da carreira, trabalhei com produtos financeiros, plataformas corporativas, logística, experiências digitais e sistemas de alta interação com usuários.
+
+---
+
+## 🚀 Product Engineering
+
+Desenvolvo o **DeNode**, um SaaS para operações de restaurantes que reúne:
+
+- autoatendimento em tablet;
+- cardápio digital via QR Code;
+- delivery e encomendas;
+- painéis para cozinha, garçom, motoboy e administração;
+- autenticação e controle de acesso;
+- comunicação em tempo real com WebSockets;
+- APIs e regras de negócio;
+- deploy e operação do produto.
+
+### Stack
+
+**Frontend**
+
+React • Next.js • Vue.js • Nuxt • TypeScript • JavaScript
+
+HTML5 • CSS3 • SCSS • CSS Modules • Styled Components
+
+Zustand • Pinia • Vuex
+
+**Backend**
+
+Node.js • Express • Prisma • PostgreSQL
+
+REST APIs • GraphQL • JWT • Socket.IO
+
+**Qualidade & Engenharia**
+
+Jest • Testing Library • Git • Docker
+
+Arquitetura Frontend • Design Systems • SSR • PWA
+
+---
+
+## 🤖 AI-Assisted Development
+
+IA faz parte do meu fluxo diário de engenharia.
+
+Utilizo agentes e ferramentas assistidas por IA para acelerar:
+
+- análise e implementação;
+- debugging e refatoração;
+- documentação técnica;
+- definição de backlog;
+- refinamento e faseamento de projetos;
+- revisão de código;
+- exploração de novas arquiteturas e tecnologias.
+
+A IA atua como ferramenta de produtividade, mantendo as decisões técnicas, validações e responsabilidade sobre o código sob minha análise.
+
+---
+
+## 🧩 Experiência com produtos e arquitetura
+
+Tenho experiência prática com:
+
+- construção de componentes e Design Systems;
+- interfaces orientadas a configuração/metadados;
+- formulários dinâmicos;
+- tabelas e dashboards orientados a dados;
+- integração com APIs REST e GraphQL;
+- autenticação e autorização;
+- aplicações SPA, SSR e PWA;
+- sistemas em tempo real;
+- arquitetura e componentização de aplicações Frontend;
+- colaboração com Produto, UX, QA e Backend.
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=DiiDenis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiiDenis&layout=compact&theme=dracula"/>
-  <img heigth="120rem" src="http://github-readme-streak-stats.herokuapp.com?user=DiiDenis&theme=dracula&hide_border=true" />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=DiiDenis&theme=dracula&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
-<div>
-  <div>
-    <h2>🛠 Frontend | Tecnologias & Ferramentas!</h2>
-    <p align='center'>
-      <img alt="Denis-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;&nbsp;
-      <img alt="Denis-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Denis-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;  
-      <img alt="Denis-SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" /> &nbsp;&nbsp;
-      <img alt="Denis-Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> &nbsp;&nbsp;
-      <img alt="Denis-NUXT" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" /> &nbsp;&nbsp;  
-      <img alt="Denis-JEST" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp;&nbsp;    
-      <img alt="Denis-REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;&nbsp;
-      <img alt="Denis-REDUX" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" /> &nbsp;&nbsp;
-      
-  </p>
-  </div>
-  <div>
-     <h2>🖥️ Backend</h2>
-   <p align='center'>
-      <img alt="Denis-NODE" src="https://shields.io" /> &nbsp;&nbsp;
-      <img alt="Denis-PRISMA" src="https://shields.io" /> &nbsp;&nbsp;
-      <img alt="Denis-POSTGRESQL" src="https://shields.io" /> &nbsp;&nbsp;
-      <img alt="Denis-WEBSOCKET" src="https://shields.io" /> &nbsp;&nbsp;
-    </p>
-  </div>
-</div>
+---
 
-## Redes Sociais
-<p align='center'> 
-  <a href="https://www.instagram.com/diidenis/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-    &nbsp;&nbsp;  
-  </a>
-  <a href="https://www.linkedin.com/in/denis-izaias-pereira-16b4ba77/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-    &nbsp;&nbsp;
-  </a>
-</p>
+## 🔗 Links
 
-## Contato
-### Email: diidenis@hotmail.com
+- Portfólio: https://diidenis.com.br
+- LinkedIn: https://www.linkedin.com/in/denis-izaias-pereira-16b4ba77/
+- GitHub: https://github.com/DiiDenis
+
+---
+
+## 📫 Contato
+
+**E-mail:** diidenis@hotmail.com
